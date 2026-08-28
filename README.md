@@ -6,6 +6,7 @@ Converting subjective taste and domain expertise into grading evals for agents i
 
 Never been to GitHub before? Here's the marketing friendly summary:
 - https://claude.ai/public/artifacts/9c96fcd8-6b5d-4ce8-b3e1-36137e75442c
+- (the missing section of my phone number isn't a typo, it's a redaction)
 
 ## Contents
 Below is a small sample of the early process of building the foundation of the rubric refining methodology that I'm still actively iterating on. They aren't full polished documents, but they should be legible with a little patience. For those not comfortable with .md or ai generated files, the order of most legible to least legible is:
