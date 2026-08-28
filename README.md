@@ -15,6 +15,6 @@ Below is a small sample of the early process of building the foundation of the r
 - **refinement-vector-1-critiques.md** -- originally meant to be a quick middle ground of dropbox grading and re-writes. First iteration was basically just partial re-writes. Now it's more like a comment-on-a-google-doc redlining experience.
 - **alderman-ai-linkedin-grading-rubric.md** -- an early version, which had 17 categories of grading, with only 3 possible grades: (unpostable | good | great). I've since added postable as the second of four. Most clients are perfectly fine with 'postable' and it requires very little to acheive -- basically the domain expertise extraction plus some minor refinements. The 'good' as a floor is mostly for marketing agencies.
 
-- ### Not shown
+### Not shown
 - There are other grading vectors -- primarily massive airtables with super quick dropbox grading, no notes -- there's no methodology i'm hiding there. It's just a. boring and b. i don't want to expose my entire 2500 +/- corpus of self-written posts online. Another vector is called post silhouette and it's probably the biggest breakthrough. I'm mostly sharing it publically because it's what helps me most commercially -- you can see a small peek via the claude artifact link at top.
 - There's also much more refined versions of the ones shown. You get it.
