@@ -42,7 +42,7 @@ example typically write note within backticks and /// like . When I do re-writes
 ## LinkedIn: Desktop vs. Mobile
 There are two way to view LinkedIn, Desktop or Mobile. Don't get too concerned with specific viewports, including tablet. There's a logical reason for ignoring this, but that's out of scope for this document.
 
-In scope here is what the two interfaces do to the viewable window about the read more button (aka above the fold). In short, mobile has less, which means that 
+In scope here is what the two interfaces do to the viewable window about the read more button (aka above the fold). In short, mobile has less, which means that hooks must account for that.
 
 ## Hook formatting
 There are two, primary hook formats for my style. For now, not following one of these is a hard fail. There are exceptions I make to these, but we will handle edge cases once the core rubric is stronger.
